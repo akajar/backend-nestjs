@@ -7,7 +7,7 @@ import { UsersModule } from './users/users.module';
 import { ProductsModule } from './products/products.module';
 import { OrdersModule } from './orders/orders.module';
 
-const mongoURI = 'mongodb+srv://admin1:0VQGIqe9tciplcAe@clusterb.zfl62.mongodb.net/tienda_online?retryWrites=true&w=majority'
+const mongoURI = "pidele a dba"
 //puede usarse tambien un archivo como "process.env.DB_URI"
 @Module({
   imports: [
